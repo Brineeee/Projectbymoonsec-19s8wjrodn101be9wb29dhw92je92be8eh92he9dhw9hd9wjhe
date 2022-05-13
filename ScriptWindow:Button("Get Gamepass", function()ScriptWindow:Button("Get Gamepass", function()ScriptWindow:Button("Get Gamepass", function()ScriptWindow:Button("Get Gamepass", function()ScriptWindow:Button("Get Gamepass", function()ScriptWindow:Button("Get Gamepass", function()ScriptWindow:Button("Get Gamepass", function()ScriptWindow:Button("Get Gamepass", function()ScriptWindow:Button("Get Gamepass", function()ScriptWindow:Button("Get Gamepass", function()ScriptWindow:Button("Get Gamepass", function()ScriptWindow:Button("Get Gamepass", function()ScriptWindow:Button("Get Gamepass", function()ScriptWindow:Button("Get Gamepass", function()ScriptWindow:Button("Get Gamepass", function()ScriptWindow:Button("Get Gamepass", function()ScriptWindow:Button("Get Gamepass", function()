@@ -1,0 +1,68 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Brineeee/Kavo-GT/main/lua"))()
+
+local Window = Library.CreateLib("Light Step X - Main", "GrapeTheme")
+
+local Tab1 = Window:NewTab("\\-Script Hub-//")
+local Tab1Section = Tab1:NewSection("\\-This script made by mech#0945-//")
+
+setclipboard(https://linktr.ee/brine777) 
+
+Tab1Section:NewButton("Pet Simulator X", "PSX", function()
+if game.PlaceId == 6284583030 then 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Brineeee/GoldenTool-PSX/main/lua-to-obfuscate",true))()
+
+else
+game.Players.localPlayer:Kick("Wrong game please join in Pet Simulator X.")
+end
+end) 
+
+Tab1Section:NewButton("Blox Fruit - First Sea [BETA]", "BF", function()
+if game.PlaceId == 2753915549 then 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Brineeee/BloxFruit-Light-Step-X/main/SHAREHACK-FREE",true))()
+
+else
+game.Players.localPlayer:Kick("Wrong game please join in Blox Fruit - First Sea.")
+end
+end)
+
+Tab1Section:NewButton("Natural Disaster Survival", "NDS", function()
+if game.PlaceId == 189707 then 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Brineeee/Natural-Disaster-Skid/main/lua-to-skid",true))()
+
+else
+game.Players.localPlayer:Kick("Wrong game please join in Natural Disaster Survival.")
+end
+end)
+
+Tab1Section:NewButton("Strongman Simulator", "SS - goat", function()
+if game.PlaceId == 6766156863 then 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Brineeee/Strongman-simulator-script/main/lua"))()
+
+else
+game.Players.localPlayer:Kick("Wrong game please join in Strongman Simulator.")
+end
+end)
+
+Tab1Section:NewButton("Find the Markers", "FTM", function()
+if game.PlaceId == 7896264844 then 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Brineeee/Find-The-Markers-anothershit/main/lua"))()
+
+else
+game.Players.localPlayer:Kick("Wrong game please join in Find the Makers.")
+end
+end)
+
+Tab1Section:NewButton("Legends of Speed", "LOS", function()
+if game.PlaceId == 7896264844 then 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Brineeee/Legends-Of-Speed-SHAREHACK/main/lua"))()
+
+else
+game.Players.localPlayer:Kick("Wrong game please join in Find the Makers.")
+end
+end)
